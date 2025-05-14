@@ -18,6 +18,8 @@ void main() {
   String firstWord = "Hello", secondWord = "World";
 
   print(firstWord);
+  print(secondWord);
+
 
 
   //Boolean (bool)
